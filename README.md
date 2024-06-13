@@ -1,3 +1,15 @@
+# CSS
+
++ [CSS资源合集](https://github.com/Nan-Mo/awesome/blob/main/css/index.md)
+
+# JavaScript
+
++ [JavaScript资源合集](https://github.com/Nan-Mo/awesome/blob/main/javaScript/index.md)
+
+# React
+
++ [React资源合集](https://github.com/Nan-Mo/awesome/blob/main/react/index.md)
+
 # 面试
 + [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 木易杨说面试题
 + [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - 排名前 500 位的 ReactJS 面试问题和答案列表。编码练习题即将推出！！
