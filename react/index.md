@@ -1,33 +1,49 @@
 
 # React
 
-## 框架
-+ [react](react) - 用于 Web 和本机用户界面的库。
-+ [preact](https://github.com/preactjs/preact) - ⚛️ 具有相同现代 API 的快速 3kB React 替代方案。组件和虚拟 DOM。
-+ [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
-+ [umi](https://github.com/umijs/umi) - React 社区中✨的框架
-+ [ice](https://github.com/alibaba/ice) - 基于 React 的渐进式应用框架
-+ [refine](https://github.com/refinedev/refine) - 一个React框架，用于构建内部工具，管理面板，仪表板和B2B应用程序，具有无与伦比的灵活性。
-+ [bulletproof-react](https://github.com/alan2207/bulletproof-react) - 一个简单、可扩展且功能强大的架构，用于构建生产就绪的 React 应用程序。
-
 ## React UI 库
-+ [ant-design](https://github.com/ant-design/ant-design) - 企业级 UI 设计语言和 React UI 库
-+ [eui](https://github.com/elastic/eui) - 弹性UI框架 🙌
++ [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.  <img alt="" src="https://img.shields.io/github/stars/mui/material-ui.svg?style=social&label=Star" />
++ [ant-design](https://github.com/ant-design/ant-design) - 企业级 UI 设计语言和 React UI 库 <img alt="" src="https://img.shields.io/github/stars/ant-design/ant-design.svg?style=social&label=Star" />
++ [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - 设计精美的组件，您可以将其复制并粘贴到应用程序中。可到达的可定制的。<img alt="" src="https://img.shields.io/github/stars/shadcn-ui/ui.svg?style=social&label=Star" />
++ [eui](https://github.com/elastic/eui) - 弹性UI框架 🙌 <img alt="" src="https://img.shields.io/github/stars/elastic/eui.svg?style=social&label=Star" />
+
+
+## 状态管理
++ [redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management<img alt="" src="https://img.shields.io/github/stars/reduxjs/redux.svg?style=social&label=Star" />
++ [zustand](https://github.com/pmndrs/zustand) - 🐻 承担 React 中状态管理的必要条件 <img alt="" src="https://img.shields.io/github/stars/pmndrs/zustand.svg?style=social&label=Star" />
++ [mobx](https://github.com/mobxjs/mobx) - 简单、可扩展的状态管理。<img alt="" src="https://img.shields.io/github/stars/mobxjs/mobx.svg?style=social&label=Star" />
++ [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil 是一个用于 React 应用程序的实验性状态管理库。它提供了一些单独使用 React 难以实现的功能，同时与最新功能兼容。<img alt="" src="https://img.shields.io/github/stars/facebookexperimental/Recoil.svg?style=social&label=Star" />
++ [jotai](https://github.com/pmndrs/jotai) -  React 的原始和灵活的状态管理 <img alt="" src="https://img.shields.io/github/stars/pmndrs/jotai.svg?style=social&label=Star" />
+
+
+## 路由
++ [react-router](https://github.com/remix-run/react-router) - React 的声明式路由 <img alt="" src="https://img.shields.io/github/stars/remix-run/react-router.svg?style=social&label=Star" />
+
+## 数据获取
++ [react-query](https://github.com/TanStack/query) - 🤖 强大的异步状态管理、服务器状态实用程序和 Web 数据获取。TS/JS、React Query、Solid Query、Svelte Query 和 Vue Query。<img alt="" src="https://img.shields.io/github/stars/TanStack/query.svg?style=social&label=Star" />
++ [swr](https://github.com/vercel/swr) - 用于数据获取的 React Hooks <img alt="" src="https://img.shields.io/github/stars/vercel/swr.svg?style=social&label=Star" />
+
+## 框架
++ [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。<img alt="" src="https://img.shields.io/github/stars/NervJS/taro.svg?style=social&label=Star" />
++ [umi](https://github.com/umijs/umi) - React 社区中✨的框架 <img alt="" src="https://img.shields.io/github/stars/umijs/umi.svg?style=social&label=Star" />
 
 ## 后台管理系统解决方案
-+ [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-+ [react-admin](https://github.com/yezihaohao/react-admin) - ✨react 后台管理系统解决方案
++ [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! <img alt="" src="https://img.shields.io/github/stars/ant-design/ant-design-pro.svg?style=social&label=Star" />
++ [refine](https://github.com/refinedev/refine) - 一个React框架，用于构建内部工具，管理面板，仪表板和B2B应用程序，具有无与伦比的灵活性。<img alt="" src="https://img.shields.io/github/stars/refinedev/refine.svg?style=social&label=Star" />
++ [bulletproof-react](https://github.com/alan2207/bulletproof-react) - 一个简单、可扩展且功能强大的架构，用于构建生产就绪的 React 应用程序。<img alt="" src="https://img.shields.io/github/stars/alan2207/bulletproof-react.svg?style=social&label=Star" />
++ [react-admin](https://github.com/yezihaohao/react-admin) - ✨react 后台管理系统解决方案 <img alt="" src="https://img.shields.io/github/stars/yezihaohao/react-admin.svg?style=social&label=Star" />
 
 ## React Hooks库
-+ [ahooks](https://github.com/alibaba/hooks) - 一个高质量和可靠的React Hooks库。
-+ [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React 钩子库，即用型，用 Typescript 编写。
++ [ahooks](https://github.com/alibaba/hooks) - 一个高质量和可靠的React Hooks库。 <img alt="" src="https://img.shields.io/github/stars/alibaba/hooks.svg?style=social&label=Star" />
+
++ [usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React 钩子库，即用型，用 Typescript 编写。 <img alt="" src="https://img.shields.io/github/stars/juliencrn/usehooks-ts.svg?style=social&label=Star" />
 
 ## React 骨架屏
 + [react-content-loader](https://github.com/danilowoz/react-content-loader) - 可轻松创建骨架屏，SVG 驱动的组件。
 ## React Pdf
 + [react-content-loader](https://github.com/diegomura/react-pdf) - 使用 React 创建 PDF 文件
 ## React 表单
-+ [react-jsonschema-form] - 一个 React 组件，用 `JSON Schema` 构建 Web 表单。
++ [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - 一个 React 组件，用 `JSON Schema` 构建 Web 表单。
 + [formik](https://github.com/jaredpalmer/formik) - 在 React 中构建表单
 + [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 用于表单状态管理和验证的 React Hooks （Web + React Native）
 
@@ -50,20 +66,6 @@
 + [react-konva](https://github.com/konvajs/react-konva) - React + Canvas = 爱。JavaScript 库，用于使用 React 绘制复杂的画布图形。
 ## 延迟
 + [react-lazyload](https://github.com/twobin/react-lazyload) - 延迟加载您的组件、图像或任何与性能有关的东西。
-
-## 路由
-
-+ [react-router](https://github.com/remix-run/react-router) - React 的声明式路由
-
-## 状态管理
-+ [mobx](https://github.com/mobxjs/mobx) - 简单、可扩展的状态管理。
-+ [jotai](https://github.com/pmndrs/jotai) -  React 的原始和灵活的状态管理
-+ [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil 是一个用于 React 应用程序的实验性状态管理库。它提供了一些单独使用 React 难以实现的功能，同时与最新功能兼容。
-+ [zustand](https://github.com/pmndrs/zustand) - 🐻 承担 React 中状态管理的必要条件
-
-## 数据获取
-+ [swr](https://github.com/vercel/swr) - 用于数据获取的 React Hooks
-+ [react-query](https://github.com/TanStack/query) - 🤖 强大的异步状态管理、服务器状态实用程序和 Web 数据获取。TS/JS、React Query、Solid Query、Svelte Query 和 Vue Query。
 
 ## 实战项目源码
 + [fiora](https://github.com/yinxin630/fiora) - 一个有趣的开源聊天应用程序。使用 node.js、mongoDB、socket.io 和 react 开发
